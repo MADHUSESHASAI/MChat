@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MChatBackend.Core/MChatBackend.Core.csproj" Id="7881c174-33c4-42ff-9284-0ea65b06debe" />
+  <Project Path="MChatBackend.Infrastrecture/MChatBackend.Infrastrecture.csproj" Id="c8874006-e382-4317-b193-17e336a4d885" />
+  <Project Path="MChatBackend/MChatBackend.csproj" />
+</Solution>

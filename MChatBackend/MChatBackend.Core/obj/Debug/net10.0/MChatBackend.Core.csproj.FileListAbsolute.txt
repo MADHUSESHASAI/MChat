@@ -1,0 +1,13 @@
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\bin\Debug\net10.0\MChatBackend.Core.deps.json
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\bin\Debug\net10.0\MChatBackend.Core.dll
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\bin\Debug\net10.0\MChatBackend.Core.pdb
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.csproj.AssemblyReference.cache
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.AssemblyInfoInputs.cache
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.AssemblyInfo.cs
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.csproj.CoreCompileInputs.cache
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.sourcelink.json
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.dll
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\refint\MChatBackend.Core.dll
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\MChatBackend.Core.pdb
+D:\ChatApplication\MChat\MChatBackend\MChatBackend.Core\obj\Debug\net10.0\ref\MChatBackend.Core.dll

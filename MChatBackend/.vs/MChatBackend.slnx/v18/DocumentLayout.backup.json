@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ChatApplication\\MChat\\MChatBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBC2D37-C4F6-8F3D-0B3E-189682190BF7}|MChatBackend\\MChatBackend.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBC2D37-C4F6-8F3D-0B3E-189682190BF7}|MChatBackend\\MChatBackend.csproj|solutionrelative:mchatbackend\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend.core\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|solutionrelative:mchatbackend.core\\services\\chatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8874006-E382-4317-B193-17E336A4D885}|MChatBackend.Infrastrecture\\MChatBackend.Infrastrecture.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend.infrastrecture\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8874006-E382-4317-B193-17E336A4D885}|MChatBackend.Infrastrecture\\MChatBackend.Infrastrecture.csproj|solutionrelative:mchatbackend.infrastrecture\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|solutionrelative:mchatbackend.core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend.core\\dto\\sendmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|solutionrelative:mchatbackend.core\\dto\\sendmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBC2D37-C4F6-8F3D-0B3E-189682190BF7}|MChatBackend\\MChatBackend.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBC2D37-C4F6-8F3D-0B3E-189682190BF7}|MChatBackend\\MChatBackend.csproj|solutionrelative:mchatbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend.core\\signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|solutionrelative:mchatbackend.core\\signalr\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|d:\\chatapplication\\mchat\\mchatbackend\\mchatbackend.core\\servicecontracts\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7881C174-33C4-42FF-9284-0EA65B06DEBE}|MChatBackend.Core\\MChatBackend.Core.csproj|solutionrelative:mchatbackend.core\\servicecontracts\\ichatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Infrastrecture\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MChatBackend.Infrastrecture\\DependencyInjection.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Infrastrecture\\DependencyInjection.cs",
+              "RelativeToolTip": "MChatBackend.Infrastrecture\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:26:35.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MChatBackend.Core\\DependencyInjection.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\DependencyInjection.cs",
+              "RelativeToolTip": "MChatBackend.Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:25:37.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "MChatBackend\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "MChatBackend\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:22:32.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SendMessageRequest.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\DTO\\SendMessageRequest.cs",
+              "RelativeDocumentMoniker": "MChatBackend.Core\\DTO\\SendMessageRequest.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\DTO\\SendMessageRequest.cs",
+              "RelativeToolTip": "MChatBackend.Core\\DTO\\SendMessageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:20:45.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\SignalR\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "MChatBackend.Core\\SignalR\\Hubs\\ChatHub.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\SignalR\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "MChatBackend.Core\\SignalR\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:08:37.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend\\Program.cs",
+              "RelativeDocumentMoniker": "MChatBackend\\Program.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend\\Program.cs",
+              "RelativeToolTip": "MChatBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:03:12.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatService.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\Services\\ChatService.cs",
+              "RelativeDocumentMoniker": "MChatBackend.Core\\Services\\ChatService.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\Services\\ChatService.cs",
+              "RelativeToolTip": "MChatBackend.Core\\Services\\ChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:01:56.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IChatService.cs",
+              "DocumentMoniker": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\ServiceContracts\\IChatService.cs",
+              "RelativeDocumentMoniker": "MChatBackend.Core\\ServiceContracts\\IChatService.cs",
+              "ToolTip": "D:\\ChatApplication\\MChat\\MChatBackend\\MChatBackend.Core\\ServiceContracts\\IChatService.cs",
+              "RelativeToolTip": "MChatBackend.Core\\ServiceContracts\\IChatService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T12:57:06.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
